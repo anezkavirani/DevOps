@@ -1,3 +1,2 @@
 This is file1 
 This line is not a mistake
-This is a mistake but I will commit and revert it 
